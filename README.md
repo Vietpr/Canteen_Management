@@ -11,7 +11,8 @@ FPT University serves as not only an educational and research institution but al
 + Facilitate the calculation of canteen revenue on a daily, weekly, and monthly basis.
 + Provide insightful statistical reports that encompass metrics such as the quantity of items sold, the count of delivered and undelivered orders, as well as revenue figures for each day, week, and month.
 
-<img src="https://github.com/Vietpr/Canteen_Management/assets/113697984/6234a71c-dddb-4460-8cc3-44d1177fbb92" alt="MphinhEr" width="370px"/> <img src="https://github.com/Vietpr/Canteen_Management/assets/113697984/41ded1f1-7695-4494-91a4-c4b2b5a2ee87" alt="Table" width="390px"/> 
+<img src="https://github.com/Vietpr/Canteen_Management/assets/113697984/6234a71c-dddb-4460-8cc3-44d1177fbb92" alt="MphinhEr" width="370px"/>
+![Table](https://github.com/Vietpr/Canteen_Management/assets/113697984/57ad8cbd-429c-4e4a-9ed1-0f4ae3b48eea)
 
 # Management Goals
 ### Employee Management:
